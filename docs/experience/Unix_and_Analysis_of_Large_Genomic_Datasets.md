@@ -1,7 +1,8 @@
 # Unix and Analysis of Large Genomic Datasets
 
-Analysed short- and long-read sequencing data from fire ants and Plasmodium falciparum, developing practical skills in Linux, bioinformatics and genomic data interpretation.
-Skills developed
+Analysed short and long read sequencing data from fire ants and Plasmodium falciparum, developing practical skills in Linux, bioinformatics and genomic data interpretation.
+
+Skills developed:
 
 - Linux and Bash: Worked on remote Linux systems and used shell commands, scripts and loops to organise data and process multiple samples.
 - Sequencing quality control and assembly: Assessed and cleaned Illumina reads with FastQC and Trimmomatic, assembled sequences with SPAdes, and evaluated assembly quality with QUAST.
