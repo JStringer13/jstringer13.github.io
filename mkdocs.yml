@@ -39,6 +39,5 @@ nav:
   - About Me:
     - index.md
   - Experience:
-    - Git and GitHub: experience/Git_and_GitHub.md
     - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
     - Coding for Bioscientists: experience/Coding_for_Bioscientists.md

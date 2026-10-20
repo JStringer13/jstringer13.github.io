@@ -47,12 +47,19 @@ The module combined Jupyter notebook exercises with bioinformatics applications 
 - Used sequence objects for reverse complementation, transcription and translation.
 - Read FASTA and GenBank records with SeqIO and explored BLAST search results with SearchIO.
 
-### 10. AI-assisted programming
+### 10. Git and GitHub
+
+- Managed an example RNA-seq metadata project with Git, using commits to inspect changes and maintain a clear project history.
+- Used branches and GitHub pull requests, resolved merge conflicts and configured `.gitignore` to exclude generated outputs.
+
+[View my practice repository](https://github.com/JStringer13/AI_For_Programming)
+
+### 11. AI-assisted programming
 
 - Used Ollama and GitHub Copilot CLI to explain, generate and debug small bioinformatics scripts.
 - Wrote focused prompts, reviewed proposed changes and tested translation, reverse-complement and GC-content code against independently checked examples.
 
-### 11. COVID-19 dashboard — group project
+### 12. COVID-19 dashboard — group project
 
 - Collaborated on an interactive COVID-19 dashboard during a 24-hour hackathon, retrieving UKHSA data through an API and organising JSON responses into pandas DataFrames.
 - Combined Matplotlib visualisations, ipywidgets controls and Voilà dashboard presentation, developing collaborative debugging and technical communication skills.
@@ -62,4 +69,5 @@ The module combined Jupyter notebook exercises with bioinformatics applications 
 - **Programming:** Python, reusable code, object-oriented design, debugging and testing.
 - **Data analysis:** API access, JSON, pandas, data preparation and interactive visualisation.
 - **Bioinformatics and AI:** Biological sequence processing and critical evaluation of AI-generated code.
+- **Version control:** Managed project history, reviewed changes and resolved conflicts using Git and GitHub.
 - **Teamwork and communication:** Collaborative problem-solving, developing a shared application and explaining technical work.
