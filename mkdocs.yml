@@ -36,9 +36,9 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - About Me: 
+  - About Me:
     - index.md
-
   - Experience:
-    - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
     - Git and GitHub: experience/Git_and_GitHub.md
+    - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
+    - Coding for Bioscientists: experience/Coding_for_Bioscientists.md
