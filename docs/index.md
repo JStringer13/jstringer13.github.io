@@ -1,22 +1,23 @@
-# My Personal Portfolio Website 
+# Jarrod Stringer
 
 -------
 
-![Placeholder portrait](./img/Placeholder.png)
+![Portrait](./img/me.jpg)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+I studied Biochemistry for my undergraduate. I love pharmacology! I am now studying my masters degree in AI in Bioscience and QMUL!.
 
+[GitHub](https://github.com/JStringer13)
+[Linkedin](https://www.linkedin.com/in/jarrod-stringer-592a8819b/)
 
 ## Experience 
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| Chef | The New Inn | 2021-2022, 2025-2026 | Help prepare, make and serve food to customers ensure food hygiene procedures.
 
 ## Education 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| BSc Biochemistry | University of Leeds | 2022-2025 |
+| MSc Ai in Bioscience | Queen Mary London | 2026-2027 |

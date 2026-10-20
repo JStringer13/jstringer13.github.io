@@ -38,9 +38,19 @@
   .md-typeset .task > summary {
     background-color: rgba(255, 152, 0, 0.1);
   }
-  .md-typeset .task > .admonition-title::before,
-  .md-typeset .task > summary::before {
-    background-color: rgb(255, 152, 0);
-    -webkit-mask-image: var(--md-admonition-icon--task);
-            mask-image: var(--md-admonition-icon--task);
-  }
+.md-typeset .task > .admonition-title::before,
+.md-typeset .task > summary::before {
+  background-color: rgb(255, 152, 0);
+  -webkit-mask-image: var(--md-admonition-icon--task);
+  mask-image: var(--md-admonition-icon--task);
+}
+
+/* Heading colour and rounded images */
+.md-typeset h1,
+.md-typeset h2 {
+  color: #245b55;
+}
+
+.md-typeset img {
+  border-radius: 8px;
+}
