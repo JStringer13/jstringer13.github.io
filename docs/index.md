@@ -21,3 +21,10 @@ I studied Biochemistry for my undergraduate. I love pharmacology! I am now study
 | --- | --- | --- |
 | BSc Biochemistry | University of Leeds | 2022-2025 |
 | MSc Ai in Bioscience | Queen Mary London | 2026-2027 |
+
+
+## Skills
+
+- Introductory Git and GitHub: commits, branches, pull requests and merge conflict resolution.
+- Markdown and MkDocs: creating pages, organising navigation and publishing a portfolio.
+- Basic command-line navigation and file management.
