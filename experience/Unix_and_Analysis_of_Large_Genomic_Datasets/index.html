@@ -436,6 +436,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Unix and Analysis of Large Genomic Datasets
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -452,6 +470,152 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction-and-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introduction and overview
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practical-work" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practical work
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Practical work">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-unix-and-read-quality-control" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Unix and read quality control
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-genome-assembly" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Genome assembly
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-gene-prediction-and-annotation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Gene prediction and annotation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-read-mapping-and-variant-calling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Read mapping and variant calling
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-population-genetics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Population genetics
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-long-read-analysis-on-the-teaching-cluster" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6. Long-read analysis on the teaching cluster
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-genomic-databases" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        7. Genomic databases
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-cancer-genomics-databases" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        8. Cancer genomics databases
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skills-developed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Skills developed
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -511,18 +675,55 @@
 
 
 <h1 id="unix-and-analysis-of-large-genomic-datasets">Unix and Analysis of Large Genomic Datasets</h1>
-<p>Analysed short and long read sequencing data from fire ants and Plasmodium falciparum, developing practical skills in Linux, bioinformatics and genomic data interpretation.</p>
-<p>Skills developed:</p>
+<h2 id="introduction-and-overview">Introduction and overview</h2>
+<p>Analysed short- and long-read sequencing data from fire ants and <em>Plasmodium falciparum</em>, developing practical skills in Linux, bioinformatics and genomic data interpretation.</p>
+<p>The practicals followed the workflow from read cleaning and assembly to gene annotation, variant discovery and population genetics, alongside genomic and cancer database exercises.</p>
+<h2 id="practical-work">Practical work</h2>
+<h3 id="1-unix-and-read-quality-control">1. Unix and read quality control</h3>
 <ul>
-<li>Linux and Bash: Worked on remote Linux systems and used shell commands, scripts and loops to organise data and process multiple samples.</li>
-<li>Sequencing quality control and assembly: Assessed and cleaned Illumina reads with FastQC and Trimmomatic, assembled sequences with SPAdes, and evaluated assembly quality with QUAST.</li>
-<li>Gene annotation: Predicted genes using MAKER and Augustus, and assessed protein predictions using BLASTP and UniProtKB/Swiss-Prot.</li>
-<li>Variant analysis: Aligned reads with Bowtie2 and minimap2, processed alignment files with SAMtools, and identified SNPs and structural variants using BCFtools and Sniffles.</li>
-<li>R and population genetics: Used R Markdown, adegenet and PopGenome to visualise genetic variation, explore population structure and compare genetic diversity.</li>
-<li>Biological databases: Queried NCBI, UCSC, COSMIC and cBioPortal to investigate gene annotations, transcript isoforms and cancer mutation patterns.</li>
-<li>Reproducible analysis and troubleshooting: Managed Conda environments, documented commands and software versions, and resolved software dependency issues.</li>
+<li>Worked on remote Linux systems, organised project files and recorded commands in analysis logs.</li>
+<li>Assessed read quality with FastQC and cleaned paired-end Illumina reads with Trimmomatic, KMC and Cutadapt.</li>
 </ul>
-<p>The module strengthened my ability to work with unfamiliar software, assess data quality and connect computational results with biological questions.</p>
+<h3 id="2-genome-assembly">2. Genome assembly</h3>
+<ul>
+<li>Assembled cleaned reads using SPAdes and evaluated assembly length, GC content and contiguity with QUAST.</li>
+</ul>
+<h3 id="3-gene-prediction-and-annotation">3. Gene prediction and annotation</h3>
+<ul>
+<li>Predicted genes with MAKER and Augustus, and assessed protein predictions using BLASTP, UniProtKB/Swiss-Prot and GeneValidator.</li>
+</ul>
+<h3 id="4-read-mapping-and-variant-calling">4. Read mapping and variant calling</h3>
+<ul>
+<li>Aligned reads with Bowtie2, processed alignment files with SAMtools, and called and filtered SNPs with BCFtools.</li>
+<li>Inspected alignments and variants in IGV to evaluate read support and potential artefacts.</li>
+</ul>
+<h3 id="5-population-genetics">5. Population genetics</h3>
+<ul>
+<li>Used R Markdown, adegenet and PopGenome to visualise genetic variation and compare population structure, diversity and differentiation.</li>
+</ul>
+<h3 id="6-long-read-analysis-on-the-teaching-cluster">6. Long-read analysis on the teaching cluster</h3>
+<ul>
+<li>Processed Oxford Nanopore reads using NanoPlot and Chopper, and mapped them to a reference with minimap2.</li>
+<li>Identified candidate structural variants with Sniffles and used Bash scripts to apply analysis steps across samples.</li>
+</ul>
+<h3 id="7-genomic-databases">7. Genomic databases</h3>
+<ul>
+<li>Queried NCBI, RefSeq, CCDS and UCSC to investigate gene locations, transcripts, annotations and reference assemblies.</li>
+</ul>
+<h3 id="8-cancer-genomics-databases">8. Cancer genomics databases</h3>
+<ul>
+<li>Used COSMIC and cBioPortal to study cancer mutation profiles, transcript isoforms, mutation hotspots and copy-number variation.</li>
+</ul>
+<h2 id="skills-developed">Skills developed</h2>
+<ul>
+<li><strong>Linux and Bash:</strong> Built scripting skills by organising projects and automating repeated steps across samples.</li>
+<li><strong>Sequencing analysis:</strong> Developed quality-control and assembly skills by cleaning reads and evaluating reconstructed sequences.</li>
+<li><strong>Gene annotation:</strong> Assessed predicted gene models through sequence similarity searches and comparison with reference proteins.</li>
+<li><strong>Variant interpretation:</strong> Evaluated SNPs and structural variants using alignment evidence, filtering and genomic context.</li>
+<li><strong>R and population genetics:</strong> Applied visualisation and comparative analysis to genotype data using R-based workflows.</li>
+<li><strong>Database research:</strong> Investigated gene and cancer datasets while considering reference versions, transcript differences and cohort context.</li>
+<li><strong>Reproducibility and troubleshooting:</strong> Managed Conda environments, recorded commands and software versions, and resolved dependency issues.</li>
+</ul>
 
 
 
