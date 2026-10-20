@@ -40,5 +40,5 @@ nav:
     - index.md
 
   - Experience:
-    -  Unix & Genomics: experience/Unix_and_Genomics.md
+    - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
     - Git and GitHub: experience/Git_and_GitHub.md
