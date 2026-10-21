@@ -18,7 +18,7 @@ My interests include molecular biology, pharmacology and how computational metho
 | --- | --- | --- |
 | MSc AI in Bioscience - in progress | Queen Mary University of London | 2026-2027 |
 | BSc (Hons) Biochemistry - 2:1 | University of Leeds | 2022-2025 |
-| A levels (Biology, Chemistry, Math) 3x A* | Hurstpierpoint College | 2019-2021 |
+| A levels (Biology, Chemistry, Math) - 3x A* | Hurstpierpoint College | 2019-2021 |
 
 ## Academic project
 
