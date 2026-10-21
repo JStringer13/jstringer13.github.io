@@ -6,6 +6,16 @@ Analysed short- and long-read sequencing data from fire ants and *Plasmodium fal
 
 The practicals followed the workflow from read cleaning and assembly to gene annotation, variant discovery and population genetics, alongside genomic and cancer database exercises.
 
+## Skills developed
+
+- **Linux and Bash:** Built scripting skills by organising projects and automating repeated steps across samples.
+- **Sequencing analysis:** Developed quality-control and assembly skills by cleaning reads and evaluating reconstructed sequences.
+- **Gene annotation:** Assessed predicted gene models through sequence similarity searches and comparison with reference proteins.
+- **Variant interpretation:** Evaluated SNPs and structural variants using alignment evidence, filtering and genomic context.
+- **R and population genetics:** Applied visualisation and comparative analysis to genotype data using R-based workflows.
+- **Database research:** Investigated gene and cancer datasets while considering reference versions, transcript differences and cohort context.
+- **Reproducibility and troubleshooting:** Managed Conda environments, recorded commands and software versions, and resolved dependency issues.
+
 ## Practical work
 
 ### 1. Unix and read quality control
@@ -42,13 +52,3 @@ The practicals followed the workflow from read cleaning and assembly to gene ann
 ### 8. Cancer genomics databases
 
 - Used COSMIC and cBioPortal to study cancer mutation profiles, transcript isoforms, mutation hotspots and copy-number variation.
-
-## Skills developed
-
-- **Linux and Bash:** Built scripting skills by organising projects and automating repeated steps across samples.
-- **Sequencing analysis:** Developed quality-control and assembly skills by cleaning reads and evaluating reconstructed sequences.
-- **Gene annotation:** Assessed predicted gene models through sequence similarity searches and comparison with reference proteins.
-- **Variant interpretation:** Evaluated SNPs and structural variants using alignment evidence, filtering and genomic context.
-- **R and population genetics:** Applied visualisation and comparative analysis to genotype data using R-based workflows.
-- **Database research:** Investigated gene and cancer datasets while considering reference versions, transcript differences and cohort context.
-- **Reproducibility and troubleshooting:** Managed Conda environments, recorded commands and software versions, and resolved dependency issues.

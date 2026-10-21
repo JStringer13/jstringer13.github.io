@@ -6,6 +6,14 @@ Developed practical Python skills for biological data analysis, progressing from
 
 The module combined Jupyter notebook exercises with bioinformatics applications and a group hackathon, applying programming skills to biological sequences and public-health data.
 
+## Skills developed
+
+- **Programming:** Python, reusable code, object-oriented design, debugging and testing.
+- **Data analysis:** API access, JSON, pandas, data preparation and interactive visualisation.
+- **Bioinformatics and AI:** Biological sequence processing and critical evaluation of AI-generated code.
+- **Version control:** Managed project history, reviewed changes and resolved conflicts using Git and GitHub.
+- **Teamwork and communication:** Collaborative problem-solving, developing a shared application and explaining technical work.
+
 ## Practical work
 
 ### 1. First steps in Python
@@ -63,11 +71,3 @@ The module combined Jupyter notebook exercises with bioinformatics applications 
 
 - Collaborated on an interactive COVID-19 dashboard during a 24-hour hackathon, retrieving UKHSA data through an API and organising JSON responses into pandas DataFrames.
 - Combined Matplotlib visualisations, ipywidgets controls and Voilà dashboard presentation, developing collaborative debugging and technical communication skills.
-
-## Skills developed
-
-- **Programming:** Python, reusable code, object-oriented design, debugging and testing.
-- **Data analysis:** API access, JSON, pandas, data preparation and interactive visualisation.
-- **Bioinformatics and AI:** Biological sequence processing and critical evaluation of AI-generated code.
-- **Version control:** Managed project history, reviewed changes and resolved conflicts using Git and GitHub.
-- **Teamwork and communication:** Collaborative problem-solving, developing a shared application and explaining technical work.
