@@ -12,6 +12,8 @@ I am a Biochemistry graduate from the University of Leeds, currently studying MS
 
 My interests include molecular biology, pharmacology and how computational methods can support biological research. Alongside my studies, hospitality work, sports coaching and rugby captaincy have developed my teamwork, communication and ability to work under pressure.
 
+[Find out more about my studies, interests and work experience](experience/index.md).
+
 ## Education
 
 | Qualification | Institution | Dates |
