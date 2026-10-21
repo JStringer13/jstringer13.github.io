@@ -18,7 +18,7 @@ My interests include molecular biology, pharmacology and how computational metho
 | --- | --- | --- |
 | MSc AI in Bioscience - in progress | Queen Mary University of London | 2026-2027 |
 | BSc (Hons) Biochemistry - 2:1 | University of Leeds | 2022-2025 |
-| A levels (Biology, Chemistry Math) 3x A* | Hurstpierpoint College | 2019-2021 |
+| A levels (Biology, Chemistry, Math) 3x A* | Hurstpierpoint College | 2019-2021 |
 
 ## Academic project
 
@@ -38,7 +38,7 @@ My final-year dissertation examined the biochemical causes of monoclonal antibod
 
 | Role | Dates | Main responsibilities |
 | --- | --- | --- |
-| Chef, The New Inn | 2021-2022; 2025-2026 | Food preparation, stock management, supplier coordination and maintaining food quality and hygiene in a busy kitchen. |
+| Chef, The New Inn | 2021-2022<br>2025-2026 | Food preparation, stock management, supplier coordination and maintaining food quality and hygiene in a busy kitchen. |
 | Barista, Mama Bars | 2021 | Customer service, preparing food and drinks, handling payments and maintaining stock and cleanliness. |
 
 ## Coaching and leadership
