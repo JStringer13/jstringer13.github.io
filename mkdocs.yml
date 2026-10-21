@@ -37,7 +37,9 @@ extra_css:
 
 nav:
   - About Me:
-    - index.md
+      - index.md
   - Experience:
-    - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
-    - Coding for Bioscientists: experience/Coding_for_Bioscientists.md
+      - Overview: experience/index.md
+      - Masters:
+          - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
+          - Coding for Bioscientists: experience/Coding_for_Bioscientists.md
