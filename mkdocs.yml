@@ -4,7 +4,7 @@ theme:
   name: material
   language: en
   palette:
-    primary: teal
+    primary: light blue
     accent: deep orange
   features:
     - content.tooltips
@@ -39,7 +39,16 @@ nav:
   - About Me:
       - index.md
   - Experience:
-      - Overview: experience/index.md
+      - Overview: experience/experience.md
       - Masters:
-          - Unix and Analysis of Large Genomic Datasets: experience/Unix_and_Analysis_of_Large_Genomic_Datasets.md
-          - Coding for Bioscientists: experience/Coding_for_Bioscientists.md
+          - Unix and Analysis of Large Genomic Datasets: experience/masters/Unix_and_Analysis_of_Large_Genomic_Datasets.md
+          - Coding for Bioscientists: experience/masters/Coding_for_Bioscientists.md
+          - Statistics for Biologists: experience/masters/Statistics_for_Biologists.md
+      - Undergraduate:
+          - Research: experience/undergraduate/research.md
+          - Course Content: experience/undergraduate/course_content.md
+      - Work Experience:
+          - Chef: experience/work_experience/chef.md
+          - Barista: experience/work_experience/barista.md
+      - Hobbies:
+          - Sports: experience/hobbies/sports.md
