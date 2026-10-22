@@ -66,14 +66,18 @@ nav:
   - Experience:
       - Overview: experience/experience.md
       - Masters:
+          - Overview: experience/masters/index.md
           - Unix and Analysis of Large Genomic Datasets: experience/masters/Unix_and_Analysis_of_Large_Genomic_Datasets.md
           - Coding for Bioscientists: experience/masters/Coding_for_Bioscientists.md
           - Statistics for Biologists: experience/masters/Statistics_for_Biologists.md
       - Undergraduate:
+          - Overview: experience/undergraduate/index.md
           - Research: experience/undergraduate/research.md
           - Course Content: experience/undergraduate/course_content.md
       - Work Experience:
+          - Overview: experience/work_experience/index.md
           - Chef: experience/work_experience/chef.md
           - Barista: experience/work_experience/barista.md
       - Hobbies:
+          - Overview: experience/hobbies/index.md
           - Sports: experience/hobbies/sports.md

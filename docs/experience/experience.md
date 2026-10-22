@@ -13,7 +13,7 @@ Here, I outline what I have learnt during my Master's and undergraduate studies,
 <div class="portfolio-grid" markdown="1">
 <div class="portfolio-card" markdown="1">
 
-### [Masters](#masters) {#masters-card}
+### [Masters](masters/index.md) {#masters-card}
 
 Programming, bioinformatics and statistics through my MSc AI in Bioscience studies.
 
@@ -22,7 +22,7 @@ Programming, bioinformatics and statistics through my MSc AI in Bioscience studi
 </div>
 <div class="portfolio-card" markdown="1">
 
-### [Undergraduate](#undergraduate) {#undergraduate-card}
+### [Undergraduate](undergraduate/index.md) {#undergraduate-card}
 
 Biochemistry study, laboratory training and my dissertation literature review.
 
@@ -31,7 +31,7 @@ Biochemistry study, laboratory training and my dissertation literature review.
 </div>
 <div class="portfolio-card" markdown="1">
 
-### [Work Experience](#work-experience) {#work-card}
+### [Work Experience](work_experience/index.md) {#work-card}
 
 Hospitality roles that developed organisation, customer service and working under pressure.
 
@@ -40,7 +40,7 @@ Hospitality roles that developed organisation, customer service and working unde
 </div>
 <div class="portfolio-card" markdown="1">
 
-### [Hobbies](#hobbies) {#hobbies-card}
+### [Hobbies](hobbies/index.md) {#hobbies-card}
 
 Sport, coaching and interests beyond my academic studies and employment.
 
@@ -48,23 +48,3 @@ Sport, coaching and interests beyond my academic studies and employment.
 
 </div>
 </div>
-
-## Masters {#masters}
-
-- [Unix and Analysis of Large Genomic Datasets](masters/Unix_and_Analysis_of_Large_Genomic_Datasets.md)
-- [Coding for Bioscientists](masters/Coding_for_Bioscientists.md)
-- [Statistics for Biologists](masters/Statistics_for_Biologists.md)
-
-## Undergraduate {#undergraduate}
-
-- [Research](undergraduate/research.md)
-- [Course content](undergraduate/course_content.md)
-
-## Work Experience {#work-experience}
-
-- [Chef](work_experience/chef.md)
-- [Barista](work_experience/barista.md)
-
-## Hobbies {#hobbies}
-
-- [Sports](hobbies/sports.md)
