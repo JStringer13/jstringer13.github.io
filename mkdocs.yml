@@ -1,28 +1,44 @@
-site_name: Jarrod Stringer Portfolio
+site_name: Jarrod Stringer
+site_url: https://jstringer13.github.io/
+site_author: Jarrod Stringer
+site_description: Biochemistry, programming and biological data analysis, alongside my studies, work experience and interests.
 
 theme:
   name: material
   language: en
+  font: false
+  icon:
+    logo: material/account-circle
   palette:
-    primary: light blue
-    accent: deep orange
+    scheme: default
+    primary: custom
+    accent: custom
   features:
-    - content.tooltips
     - navigation.instant
     - navigation.tabs
-    - toc.integrate
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+    - content.tooltips
+    - content.code.copy
+
+plugins:
+  - search
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - admonition
   - footnotes
+  - abbr
+  - toc:
+      permalink: true
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - abbr
   - pymdownx.keys
   - pymdownx.snippets:
       auto_append:
@@ -30,10 +46,19 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
-      custom_checkbox: true 
+      custom_checkbox: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JStringer13
+      name: Jarrod Stringer on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jarrod-stringer-592a8819b/
+      name: Jarrod Stringer on LinkedIn
 
 nav:
   - About Me:
