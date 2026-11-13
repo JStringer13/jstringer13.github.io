@@ -13,10 +13,11 @@ theme:
     scheme: default
     primary: custom
     accent: custom
-  features:
+    features:
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
     - toc.follow
     - content.tooltips
