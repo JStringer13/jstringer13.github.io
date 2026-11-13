@@ -82,3 +82,4 @@ nav:
       - Hobbies:
           - Overview: experience/hobbies/index.md
           - Sports: experience/hobbies/sports.md
+  - Contact Me: contact.md
